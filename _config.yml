@@ -21,7 +21,7 @@
 title: Couture d'Opale
 description: "Val Auto est une référence dans l'entretien de vos véhicules dans le secteur du Boulonnais. Disponible, engagé et efficace, Valentin vous propose une gamme complète de services de nettoyage intérieur et extérieur adaptée aux besoins spécifiques de votre voiture."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" #"https://bruvrydavid.github.io/valauto" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://couturedopale.onrender.com" #"https://bruvrydavid.github.io/valauto" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
