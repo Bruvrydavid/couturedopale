@@ -1,0 +1,26 @@
+<!-- ======= Steps Section ======= -->
+<section id="services" class="steps section-bg">
+    <div class="container">
+      <div class="section-title" data-aos="fade-up">
+        <h2>Mon catalogue de services</h2>  
+      </div>
+      <div class="section-subtitle" data-aos="fade-up">  
+        <!--h2>Fichier pdf : <a href="assets/files/Couture_D_Opale_tarifs_2024.pdf" target="_blank" rel="noopener noreferrer">ici</a></h2-->
+      </div>
+
+      <div class="row no-gutters">                
+        {% for category in site.data.prices.categories %}                                  
+          <!--{% increment my_counter %}!-->   
+          <div class="col-lg-4 col-md-6 content-item" data-aos="fade-in" data-aos-delay="{{  my_counter | times: 100 }}">                          
+            <span>{{ category.description }}</span>
+            <table class="table">
+              {% for service in category.services %}
+              <tr><td><p>{{ service.description }}</p></td><td><price>{{ service.prix }}</price></td></tr>                       
+              {% endfor %}
+            </table>
+            </div>                                                     
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+  <!-- End Steps Section -->

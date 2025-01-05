@@ -1,0 +1,44 @@
+<section id="blog" class="blog">
+    <div class="container">
+        <div class="section-title" data-aos="fade-up">
+            <h2>Le Blog</h2>
+            <h4>Nos derniers articles</h4>
+        </div>
+        <div class="row no-gutters justify-content-center" data-aos="fade-up">
+            {% for post in site.posts limit: 3 offset: continue %}
+            <div class="col-lg-4 d-flex align-items-stretch">
+                <div class="info">
+                    <div class="blog-img">
+                        <!-- <img src="{{ site.url }}{{ post.urllargeimg }}" alt="Image" loading="lazy"> -->
+                        <div class="meta-date">
+                            <span>{{ post.date | date: "%d" }}</span>
+                            <strong>{{ post.date | date: "%b" }}</strong>
+                            <span>{{ post.date | date: "%Y" }}</span>
+                        </div>
+                    </div>
+                    <div class="blog-text">
+                        <h3><a aria-label="postlink" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></h3>
+                        <p>
+                            {{ post.excerpt }}
+                        </p>
+                    </div>
+                    <div class="blog-meta">
+                        <p>
+                            <i class="bx bx-purchase-tag"></i>
+                            {% for tag in post.tags %}
+                            {{tag | join: "/" }}
+                            {% endfor %}
+                            
+                        </p>
+                        <br>
+                        <p>
+                            <i class="bx bx-calendar"></i>{{ post.date | date: "%d %b %Y" }}
+                        </p>
+                    </div>
+                </div>
+            </div>        
+        {% endfor %}
+        </div>
+    </div>
+</section>
+<!-- End Steps Section -->

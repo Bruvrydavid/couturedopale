@@ -1,0 +1,68 @@
+ {"categories":[
+        {"category":"1", "description":"MANTEAU/VESTE",
+        "services":[
+            {"description":"Ourlet manche simple sans doublure","prix":"12€"},
+            {"description":"Ourlet manche avec doublure","prix":"18€"},
+            {"description":"Pose de fermeture, fermeture fournie","prix":"28€"},
+            {"description":"Raccourcir poignets","prix":"15€"},
+            {"description":"Recoudre bouton","prix":"2€"},
+            {"description":"Réparation d'un accroc","prix":"5€"},
+            {"description":"Renforcement de bouton","prix":"1€"}
+        ]
+        },
+        {"category":"2", "description":"PANTALON",
+        "services":[
+                {"description":"Ourlet piqué","prix":"7€"},
+                {"description":"Ourlet main","prix":"9€"},
+                {"description":"Pose de fermeture, fermeture fournie","prix":"10€"},
+                {"description":"Reprise sur jambe","prix":"10€"},
+                {"description":"Reprise de taille","prix":"11€"},
+                {"description":"Reprise entrejambe","prix":"8€"},
+                {"description":"Pose de bouton métal fourni","prix":"3€"},
+                {"description":"Pose de bouton, bouton fourni","prix":"2€"},
+                {"description":"Réparation d'un accroc","prix":"5€"}
+            ]
+        },
+        {"category":"3", "description":"JUPE",
+        "services":[
+                {"description":"Ourlet simple à la main","prix":"12€"},
+                {"description":"Ourlet simple avec doublure","prix":"14€"},
+                {"description":"Ourlet piqué","prix":"9€"},
+                {"description":"Ourlé piqué avec doublure","prix":"12€"},
+                {"description":"Pose de fermeture, fermeture fournie","prix":"10€"},
+                {"description":"Pose d'élastique avec élastique","prix":"8€"},
+                {"description":"Reprise côté    ","prix":"11€"},
+                {"description":"Reprise taille","prix":"9€"}
+            ]        
+        },
+        {"category":"4", "description":"ROBE",
+        "services":[
+                {"description":"Ourlet simple à la main","prix":"12€"},
+                {"description":"Ourlet simple avec doublure à la main","prix":"14€"},
+                {"description":"Ourlet piqué","prix":"9€"},
+                {"description":"Ourlet piqué avec doublure","prix":"12€"},
+                {"description":"Ourlet robe de soirée","prix":"15€"},
+                {"description":"Pose de fermeture, fermeture fournie","prix":"14€"},
+                {"description":"Reprise bretelle","prix":"7€"},
+                {"description":"Reprise côté","prix":"10€"}
+            ]
+        },
+        {"category":"5", "description":"TOP/CHEMISE",
+        "services":[
+                {"description":"Ourlet bas","prix":"7€"},
+                {"description":"Ourlet de manches courtes","prix":"8€"},
+                {"description":"Ourlet arrondi","prix":"10€"},
+                {"description":"Remonter les poignets","prix":"10€"},
+                {"description":"Reprise de côtés","prix":"7€"}
+            ]
+        },
+        {"category":"6", "description":"AMEUBLEMENT",
+        "services":[
+                {"description":"Ourlet rideau (140)","prix":"7€"},
+                {"description":"Ourlet au mètre","prix":"4€ mlp"},
+                {"description":"Pose de ruflettes au mètre linéaire posé, ruflette fournie","prix":"8€ mlp"},
+                {"description":"Pose de ruflettes au mètre linéaire posé","prix":"6,5€ mlp"}                
+            ]
+        }
+    ]
+}

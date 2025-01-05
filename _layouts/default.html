@@ -1,0 +1,121 @@
+---
+layout: default
+---
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-BDSDNW2P1V"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-BDSDNW2P1V');
+    </script>
+    <!-- Conditions Obligatoires via tarteaucitron.io -->
+    <script src="{{ site.url }}/assets/js/tarteaucitron.min.js"></script>
+    <script type="text/javascript">
+    tarteaucitron.init({
+    "privacyUrl": "", /* Privacy policy url */
+        "bodyPosition": "bottom", /* or top to bring it as first element for accessibility */
+        "hashtag": "#tarteaucitron", /* Open the panel with this hashtag */
+        "cookieName": "couturedopale", /* Cookie name */
+        "orientation": "bottom", /* Banner position (top - bottom) */
+    
+        "groupServices": false, /* Group services by category */
+        "showDetailsOnClick": true, /* Click to expand the description */
+        "serviceDefaultState": "wait", /* Default state (true - wait - false) */
+                        
+        "showAlertSmall": false, /* Show the small banner on bottom right */
+        "cookieslist": false, /* Show the cookie list */
+                        
+        "closePopup": false, /* Show a close X on the banner */
+        "showIcon": true, /* Show cookie icon to manage cookies */
+        "iconSrc": "{{ site.url }}/assets/img/cookie.png", /* Optionnal: URL or base64 encoded image */
+        "iconPosition": "BottomRight", /* BottomRight, BottomLeft, TopRight and TopLeft */
+
+        "adblocker": false, /* Show a Warning if an adblocker is detected */   
+        "DenyAllCta" : true, /* Show the deny all button */
+        "AcceptAllCta" : true, /* Show the accept all button when highPrivacy on */
+        "highPrivacy": true, /* HIGHLY RECOMMANDED Disable auto consent */
+                        
+        "handleBrowserDNTRequest": false, /* If Do Not Track == 1, disallow all */
+
+        "removeCredit": false, /* Remove credit link */
+        "moreInfoLink": false, /* Show more info link */
+
+        "useExternalCss": false, /* If false, the tarteaucitron.css file will be loaded */
+        "useExternalJs": false, /* If false, the tarteaucitron.js file will be loaded */
+
+        //"cookieDomain": ".my-multisite-domaine.fr", /* Shared cookie for multisite */                 
+        "readmoreLink": "", /* Change the default readmore link */
+        "mandatory": true, /* Show a message about mandatory cookies */
+        "mandatoryCta": true, /* Show the disabled accept button when mandatory on */
+
+        //"customCloserId": "", /* Optional a11y: Custom element ID used to open the panel */
+        "googleConsentMode": true, /* Enable Google Consent Mode v2 for Google ads and GA4 */
+        "partnersList": false /* Show the number of partners on the popup/middle banner */
+    });
+    
+    </script>
+        
+    <meta charset="utf-8">
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+    <title>Couture d'Opale - Mon Catalogue de services</title>
+    <meta content="Je suis une Couturière experimentée sur Rinxent dans le pas de calais près de Marquise pouvant répondre à vos besoins de couture, retouche et de confection.consultez mon catalogue de services." name="description">
+    <meta content="Couture;Retouche;confection;Rinxent;Marquise" name="keywords">
+
+    <!-- Favicons -->
+    <link href="{{ site.url }}/assets/img/favicon.png" rel="icon">
+    <link href="{{ site.url }}/assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+    <!-- Google Fonts -->
+    <link as="style" rel="stylesheet preload prefetch"  href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Raleway:300,400,500,600,700|Poppins:300,400,500,600,700&display=swap" type="text/css" crossorigin="anonymous">
+    
+    <!-- Vendor CSS Files -->
+    <link href="{{ site.url }}/assets/css/Bootstrap.lite.css" rel="stylesheet" async>
+    
+    <link href="https://cdn.jsdelivr.net/npm/aos@3.0.0-beta.6/dist/aos.min.css" rel="stylesheet" async >
+    <!--link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous"-->
+    <link href="https://cdn.jsdelivr.net/npm/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" async>
+    <link href="https://cdn.jsdelivr.net/npm/glightbox@3.2.0/dist/css/glightbox.min.css" rel="stylesheet" async>                   
+    <link href="https://cdn.jsdelivr.net/npm/swiper@8.4.7/swiper-bundle.min.css" rel="stylesheet" async>
+
+    <!-- Template Main CSS File -->
+    <link href="{{ site.url }}/assets/css/style.css" rel="stylesheet">
+    </head>
+    <body>
+
+        <!-- Nav Bar Start -->
+        {% include _header.html %}
+        <!-- Nav Bar End -->
+
+        {{ content }}
+
+        <!-- Footer Start -->
+        {% include _footer.html %}
+        <!-- Footer End -->
+
+        <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bx bx-up-arrow-alt"></i></a>
+
+        <!-- Vendor JS Files -->
+        <script src="https://cdn.jsdelivr.net/npm/aos@3.0.0-beta.6/dist/aos.min.js" async></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous" async></script> 
+        <script src="https://cdn.jsdelivr.net/npm/glightbox@3.2.0/dist/js/glightbox.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/isotope-layout@3.0.6/dist/isotope.pkgd.min.js" async></script>
+        <script src="https://cdn.jsdelivr.net/npm/swiper@8.4.7/swiper-bundle.min.js"></script>
+       
+        <!-- Template Main JS File -->
+        <script src="{{ site.url }}/assets/js/main.js" async></script>
+      
+        <!-- GoogleTag Manager via tarteaucitron.io pour les conditions obligatoires-->  
+        <script type="text/javascript">
+          tarteaucitron.user.googletagmanagerId = 'G-BDSDNW2P1V';
+          (tarteaucitron.job = tarteaucitron.job || []).push('googletagmanager');
+         </script>
+      
+         </script>
+    </body>
+</html>
