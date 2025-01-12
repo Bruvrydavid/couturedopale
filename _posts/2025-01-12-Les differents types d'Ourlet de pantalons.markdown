@@ -61,8 +61,8 @@ Une règle de couture et des épingles sont indispensables pour des ourlets droi
 ## En conclusion :
 En choisissant le type d'ourlet approprié, vous pouvez ajouter la touche finale parfaite à vos pantalons, qu'ils soient élégants, décontractés ou sportifs. 
 
-A bientôt chez couture d'opale, c'est un sujet sur lequel nous pourrons partager !
-Patricia est à là pour vous aider dans vos projets d'ourlets de pantalon 👖.
+A bientôt chez [Couture d'Opale]({{ site.url }}/#services), c'est un sujet sur lequel nous pourrons partager !
+Patricia est là pour vous aider dans vos projets d'ourlets de pantalon 👖.
 
 ---
 
