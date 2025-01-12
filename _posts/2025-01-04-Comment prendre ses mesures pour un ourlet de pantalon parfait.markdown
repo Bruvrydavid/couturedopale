@@ -1,10 +1,11 @@
 ---
 layout: singlepost
 title:  "Comment prendre ses mesures pour un ourlet de pantalon parfait !"
-urllargeimg: /assets/img/blog/20250104-large-ourlet.jpg
-urlsmallimg: /assets/img/blog/20250104-small-ourlet.jpg
+urllargeimg: /assets/img/blog/20250104-large-mesures-ourlet.webp
+urlsmallimg: /assets/img/blog/20250104-small-mesures-ourlet.webp
 author: Patricia
 date:   2025-01-04
+readtime: 2 minutes
 tags: Conseil
 ---
 Un ourlet bien ajusté, c'est la clé d'un look impeccable &#128378;. Mais pour y arriver, il faut commencer par prendre les bonnes mesures. Pas de panique, c'est plus simple que ce que vous pensez ! Voici un guide étape par étape pour vous aider à réaliser un ourlet de pro.
@@ -29,11 +30,11 @@ Placez-vous devant un miroir et visualisez la longueur idéale. Traditionnelleme
 3. L'astuces pour un ourlet réussi ! Contacter **Patricia**  de Couture d'Opale &#128222; ! 
 Elle vous conseillera et réalisera vos travaux &#127881;.
 
-* Elle prendra la mesure à partir de la marque faite sur le bas du pantalon et de l'entre jambe pour vérifier et/ou répliqer sur l'autre jambe. 
+* Elle prendra la mesure à partir de la marque faite sur le bas du pantalon et de l'entre jambe pour vérifier et/ou répliquer sur l'autre jambe. 
 * Elle ajoutera quelques centimètres à la mesure pour la couture de l'ourlet. 
 * A partir de cette nouvelle mesure, elle coupera l'excédent de tissu &#9988;.
 * Pour obtenir un résultat net et précis, elle repassera le bas du pantalon avant de coudre.
-* Elle réalisera ensuite la couture de l'outlet 🪡 avec le fil assorti au pantalon 🧵 &#10175;. On vous expliquera dans un prochain article les différents types d'ourlets de pantalon.
+* Elle réalisera ensuite la couture de l'ourlet 🪡 avec le fil assorti au pantalon 🧵 &#10175;. On vous expliquera dans un prochain article les différents types d'ourlets de pantalon.
 
 
 N'hésitez pas à partager cet article avec vos amis(ies) !

@@ -3,7 +3,7 @@ layout: singlepost
 title: 'Articles par catégories'
 author: Patricia
 date: "now"
-urllargeimg: "/assets/img/blog/logo_allposts.jpg"
+urllargeimg: "/assets/img/blog/logo_allposts.webp"
 ---
 
 {% assign date_format = site.date_format | default: "%d %b %Y" %}
@@ -28,7 +28,7 @@ urllargeimg: "/assets/img/blog/logo_allposts.jpg"
     <div class="post-list">
         {%- for post in site.tags[tag] -%}
             <div class="tag-entry">
-                {{ post.date |date: "%d %b %Y" }} - <a href="{{ site.url }}{{ post.url | relative_url }}"> {{- post.title | strip_html -}}</a>
+                <i class="bx bx-calendar"></i> {{ post.date |date: "%d %b %Y" }} - <i class="bx bx-book-reader"></i>{{ post.readtime }} - <a href="{{ site.url }}{{ post.url | relative_url }}"> {{- post.title | strip_html -}}</a>
                 <br>{{ post.excerpt }} 
             </div>
         {%- endfor -%}
