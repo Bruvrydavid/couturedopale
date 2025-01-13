@@ -72,8 +72,8 @@ ourlet de pantalon, mesures, couture, mode, style
 ---
 
 ## Pour aller plus loin : 
-* [Ourlets Mode pour un jean](https://www.commeuncamion.com/2022/11/18/5-types-dourlets-a-connaitre-sur-un-jean-pour-homme-video/)
+* <a href="https://www.commeuncamion.com/2022/11/18/5-types-dourlets-a-connaitre-sur-un-jean-pour-homme-video/" target="_blank"> Ourlets Mode pour un jean/*.</a>
 
-* [Ourlet ou revers : quel bas de pantalon choisir ?](https://bonnegueule.fr/blogs/medias/ourlet-ou-revers-quel-bas-de-pantalon-choisir?srsltid=AfmBOoruyxjTG8LBrbgVJ_FaPVEBV-kthe5p54HKZhZpHjbgMQlTuNqp)
+* <a href="https://bonnegueule.fr/blogs/medias/ourlet-ou-revers-quel-bas-de-pantalon-choisir?srsltid=AfmBOoruyxjTG8LBrbgVJ_FaPVEBV-kthe5p54HKZhZpHjbgMQlTuNqp" target="_blank" > Ourlet ou revers : quel bas de pantalon choisir ?</a>
 
 ----
