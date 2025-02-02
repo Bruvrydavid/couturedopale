@@ -1,0 +1,63 @@
+{"items":[
+    {
+        "item":"1", 
+        "title":"Banane 1", 
+        "description":"La petite Banane", 
+        "image":"/assets/img/portfolio/portfolio-1.webp",
+        "descriptiondetail":"La petite Banane", 
+        "imagedetail":"/assets/img/portfolio/portfolio-1.webp",
+        "price" : "20 €", 
+        "filter":"filter-adulte"
+    }, 
+    {
+        "item":"2",
+        "title":"Banane 2",
+        "description":"la grande Banane",
+        "image":"/assets/img/portfolio/portfolio-2.webp",
+        "descriptiondetail":"la grande Banane",
+         "imagedetail":"/assets/img/portfolio/portfolio-2.webp",
+        "price" : "25 €", 
+        "filter":"filter-adulte"
+    }, 
+    {
+        "item":"3", 
+        "title":"Tablier Japonais ",
+        "description":"Tablier japonais en jeans  A COMMANDER",
+        "image":"/assets/img/portfolio/tablier-jeans-avant-1.webp",
+        "descriptiondetail":"Arrière du tablier japonais en jeans",
+        "imagedetail":"/assets/img/portfolio/tablier-jeans-arriere-1.webp",
+        "price" : "32 €",
+        "filter":"filter-adulte"
+    }, 
+    {
+        "item":"4", 
+        "title":"Turbulette 6 mois Fille", 
+        "description":"la jolie turbulette 6 mois pour fille", 
+        "image":"/assets/img/portfolio/turbulette_6mois_fille.webp",
+        "descriptiondetail":"la jolie turbulette 6 mois pour fille", 
+        "imagedetail":"/assets/img/portfolio/turbulette_6mois_fille.webp",
+        "price" : "32 €", 
+        "filter":"filter-enfant"
+    }, 
+    {
+        "item":"5", 
+        "title":"Gilet marron 4 ans Fille", 
+        "description":"Gilet 4 ans Fille", 
+        "image":"/assets/img/portfolio/gilet_marron_4ans_fille.webp",
+        "descriptiondetail":"Gilet 4 ans Fille", 
+        "imagedetail":"/assets/img/portfolio/gilet_marron_4ans_fille.webp",
+        "price" : "25 €", 
+        "filter":"filter-enfant"
+    }, 
+    {
+        "item":"6",
+        "title":"Lot Vanity Fille", 
+        "description":"Vanity + Bavoir + pochette de Nettoyage coquillage",
+        "image":"/assets/img/portfolio/Fille_Lot_Vanity.webp",
+        "descriptiondetail":"Vanity + Bavoir + pochette de Nettoyage coquillage",
+        "imagedetail":"/assets/img/portfolio/Fille_Lot_Vanity.webp",
+        "price" : "35 €", 
+        "filter":"filter-enfant"
+    }
+]}
+
