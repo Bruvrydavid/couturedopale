@@ -5,7 +5,7 @@ title:  "Pourquoi confier la réparation de votre jean à une couturière ?"
 urllargeimg: /assets/img/blog/20250127-large-reparation-pantalon.webp
 urlsmallimg: /assets/img/blog/20250127-small-reparation-pantalon.webp
 author: Patricia
-date:   2025-01-27
+date:   2025-01-29
 readtime : 2 minutes
 tags: Conseil
 ---
