@@ -2,7 +2,7 @@
     <div class="container">
         <div class="section-title" data-aos="fade-up">
             <h2>Le Blog</h2>
-            <h4>Nos derniers articles</h4>
+            <h4>Nos derniers articles / <a href="{{ site.url }}/tags.html">Tous les articles</a></h4>
         </div>
         <div class="row no-gutters justify-content-center" data-aos="fade-up">
             {% for post in site.posts limit: 3 offset: continue %}
