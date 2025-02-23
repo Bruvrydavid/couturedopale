@@ -12,14 +12,13 @@ tags: Information
 Patricia, couturière auto-entrepreuneuse de Rinxent, donne une seconde vie aux flammes publicitaires en les transformant en housses de protection pour les équipements d'examen de vue de Krys - [Calais](https://www.krys.com/opticien/france/pas-de-calais/opticien-calais/calais-centre) et [Marquise](https://www.krys.com/opticien/france/pas-de-calais/opticien-marquise).
 
 ## 2 mondes / 1 Rencontre 
-Dans une démarche toujours plus responsable, l'opticien Krys de Calais et Marquise a fait appel à l'expertise de Patricia, couturière passionnée et engagée dans le recyclage de tissus. L'objectif ? Confectionner une protection optimale aux équipements fragiles et coûteux, tout en adoptant une approche éco-responsable.
+Dans une démarche toujours plus responsable, l'opticien Krys de Calais et Marquise a fait appel à l'expertise de Patricia, couturière passionnée et engagée dans le recyclage de tissus, par le biais de Pauline, collaboratrice du magasin Krys de marquise. Une relation enrichissante et professionnelle a permis de mener à bien le projet. 
+
+L'objectif ? Confectionner une protection optimale aux équipements fragiles et coûteux, tout en adoptant une approche éco-responsable.
+
+Patricia a ainsi transformé d'anciennes flammes publicitaires en tissu aux couleurs de Krys en housses de protection sur mesure. Chaque housse a été conçue avec soin pour s'adapter parfaitement aux différents types d'appareils, offrant ainsi une protection optimale contre les chocs et la poussière.  
 
 <img src="{{ site.url }}/assets/img/blog/20250222_appareil1_2.jpg" alt="Equipement VisionX de Krys!" style="width:200px;height:300px;">  <img src="{{ site.url }}/assets/img/blog/20250222_housse1_2.jpg" alt="Equipement Krys avec sa nouvelle housse!" style="width:200px;height:300px;">
-
-Patricia a ainsi transformé d'anciennes flammes publicitaires en tissu aux couleurs de Krys en housses de protection sur mesure. Chaque housse a été conçue avec soin pour s'adapter parfaitement aux différents types d'appareils, offrant ainsi une protection optimale contre les chocs et la poussière.
-
- <img src="{{ site.url }}/assets/img/blog/flamme_Krys.jpg" alt="Flamme à recycler en housse" style="width:200px;height:300px;">
-
 
 Mais au-delà de l'aspect pratique, cette initiative est avant tout une belle illustration de l'upcycling. En donnant une seconde vie à des matériaux destinés à être jetés, Patricia et Krys Calais - Marquise réduisent leur impact environnemental et contribuent à une économie circulaire plus vertueuse.
 
@@ -28,7 +27,8 @@ Mais au-delà de l'aspect pratique, cette initiative est avant tout une belle il
 > - {{ site.data.base.telephone }} 
 > - [Side de Couture d'Opale]({{ site.url }}) 
 
-[Image de Patricia en train de travailler sur les housses]
+ <img src="{{ site.url }}/assets/img/blog/flamme_Krys.jpg" alt="Flamme à recycler en housse" style="width:200px;height:300px;">
+
 
 Couture d'Opale, bien plus qu'un simple atelier de couture, est un véritable acteur du changement. Patricia met son savoir-faire au service de projets créatifs et durables, en collaborant avec des entreprises soucieuses de leur impact environnemental.
 
