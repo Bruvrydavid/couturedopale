@@ -7,7 +7,7 @@ urlsmallimg: /assets/img/blog/20250222-small-housse-krys.webp
 author: Patricia
 date:   2025-02-22
 readtime : 2 minutes
-tags: Information
+tags: UpCycling
 ---
 Patricia, couturière auto-entrepreuneuse de Rinxent, donne une seconde vie aux flammes publicitaires en les transformant en housses de protection pour les équipements d'examen de vue de Krys - <a href="https://www.krys.com/opticien/france/pas-de-calais/opticien-calais/calais-centre" target= "_blank">Calais</a> et <a href="https://www.krys.com/opticien/france/pas-de-calais/opticien-marquise" target= "_blank">Marquise</a>.
 
