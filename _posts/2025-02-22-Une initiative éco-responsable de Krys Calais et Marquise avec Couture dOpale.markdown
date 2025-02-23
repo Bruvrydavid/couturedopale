@@ -9,12 +9,14 @@ date:   2025-02-22
 readtime : 2 minutes
 tags: Information
 ---
-Patricia, couturière auto-entrepreuneuse de Rinxent, donne une seconde vie aux flammes publicitaires en les transformant en housses de protection pour les équipements d'examen de vue de Krys - [Calais](https://www.krys.com/opticien/france/pas-de-calais/opticien-calais/calais-centre) et [Marquise](https://www.krys.com/opticien/france/pas-de-calais/opticien-marquise).
+Patricia, couturière auto-entrepreuneuse de Rinxent, donne une seconde vie aux flammes publicitaires en les transformant en housses de protection pour les équipements d'examen de vue de Krys - <a href="https://www.krys.com/opticien/france/pas-de-calais/opticien-calais/calais-centre" target= "_blank">Calais</a> et <a href="https://www.krys.com/opticien/france/pas-de-calais/opticien-marquise" target= "_blank">Marquise</a>.
 
 ## 2 mondes / 1 Rencontre 
 Dans une démarche toujours plus responsable, l'opticien Krys de Calais et Marquise a fait appel à l'expertise de Patricia, couturière passionnée et engagée dans le recyclage de tissus, par le biais de Pauline, collaboratrice du magasin Krys de marquise. Une relation enrichissante et professionnelle a permis de mener à bien le projet. 
 
 L'objectif ? Confectionner une protection optimale aux équipements fragiles et coûteux, tout en adoptant une approche éco-responsable.
+
+ <img src="{{ site.url }}/assets/img/blog/flamme_Krys.jpg" alt="Flamme à recycler en housse" style="width:200px;height:300px;">
 
 Patricia a ainsi transformé d'anciennes flammes publicitaires en tissu aux couleurs de Krys en housses de protection sur mesure. Chaque housse a été conçue avec soin pour s'adapter parfaitement aux différents types d'appareils, offrant ainsi une protection optimale contre les chocs et la poussière.  
 
@@ -27,23 +29,23 @@ Mais au-delà de l'aspect pratique, cette initiative est avant tout une belle il
 > - {{ site.data.base.telephone }} 
 > - [Side de Couture d'Opale]({{ site.url }}) 
 
- <img src="{{ site.url }}/assets/img/blog/flamme_Krys.jpg" alt="Flamme à recycler en housse" style="width:200px;height:300px;">
-
 
 Couture d'Opale, bien plus qu'un simple atelier de couture, est un véritable acteur du changement. Patricia met son savoir-faire au service de projets créatifs et durables, en collaborant avec des entreprises soucieuses de leur impact environnemental.
 
 ***Krys Marquise :***  
 > - 453 Rue des Arums - 62250 Marquise - FRANCE 
 > - 03 56 55 04 93
-> - [site Web de Krys Marquise](https://www.krys.com/opticien/france/pas-de-calais/opticien-marquise)
+> - <a href="https://www.krys.com/opticien/france/pas-de-calais/opticien-marquise" target= "_blank">Site Web de Krys Marquise</a>
 
 ***Krys Calais :*** 
 > - 69 Boulevard Jacquard - 62100 Calais - FRANCE
 > - 03 21 34 41 07
-> - [Site Web de Krys Calais](https://www.krys.com/opticien/france/pas-de-calais/opticien-calais/calais-centre)
+> - <a href="https://www.krys.com/opticien/france/pas-de-calais/opticien-calais/calais-centre" target= "_blank">Site Web de Krys Calais</a>
 
 
 Krys Calais et Marquise, des opticiens proches de vous et de la planète,  s'engagent à vos côtés pour prendre soin de votre vue, tout en respectant l'environnement. Découvrez leurs collections de lunettes et leurs services personnalisés dans une ambiance chaleureuse et conviviale.
+
+Krys Group lui est <a href="https://www.krys-group.com/nos-engagements/engage-pour-les-territoires/" target= "_blank">engagé pour  les territoires</a> et <a href="https://www.krys-group.com/nos-engagements/engage-pour-lenvironnement/" target= "_blank">engagé pour l'environnement</a>.
 
 ## Conclusion :
 
