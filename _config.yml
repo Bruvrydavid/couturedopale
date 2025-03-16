@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Couture d'Opale
-description: "Val Auto est une référence dans l'entretien de vos véhicules dans le secteur du Boulonnais. Disponible, engagé et efficace, Valentin vous propose une gamme complète de services de nettoyage intérieur et extérieur adaptée aux besoins spécifiques de votre voiture."
+description: "Je suis une Couturière experimentée sur Rinxent dans le pas de calais près de Marquise pouvant répondre à vos besoins de couture, retouche et de confection.consultez mon catalogue de services."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://couturedopale.onrender.com" #"https://bruvrydavid.github.io/valauto" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://couturedopale.onrender.com" #"https://bruvrydavid.github.io/couturedopale" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
