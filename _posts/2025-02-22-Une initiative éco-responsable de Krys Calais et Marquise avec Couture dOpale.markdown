@@ -1,6 +1,5 @@
 ---
 layout: singlepost
-draft: true
 title:  "Une initiative éco-responsable de Krys Calais et Marquise avec Couture d'Opale"
 urllargeimg: /assets/img/blog/20250222-large-housse-krys.webp
 urlsmallimg: /assets/img/blog/20250222-small-housse-krys.webp

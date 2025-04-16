@@ -1,6 +1,5 @@
 ---
 layout: singlepost
-draft: true
 title:  "🎉 Couture d’Opale fête sa première année d’ouverture !"
 urllargeimg: /assets/img/blog/20250406_Couturedopalea1an.png
 urlsmallimg: /assets/img/blog/20250406_Couturedopalea1an.png
