@@ -18,7 +18,7 @@ Chez Couture d’Opale, on aime partager nos petits outils préférés – ceux 
 🔸 Ergonomie parfaite : bonne prise en main, il tient bien, même après une longue session couture.<br>
 🔸 Finitions soignées : les lames sont bien affûtées, mais douces à l’usage — aucun risque de tirer ou d’abîmer vos tissus.<br>
 
-<img src="{{ site.url }}/assets/img/blog/20250415_steamfixH265DS_2b.jpg" alt="découd-vite Hemline" style="width:300px;height:250px;"> 
+<img src="{{ site.url }}/assets/img/blog/20250415_steamfixH265DS_2B.jpg" alt="découd-vite Hemline" style="width:300px;height:250px;"> 
 
 ## 🧶 Un choix validé par l’expérience
 "Au cours de toutes mes années de couture, j’ai eu l’occasion de tester différents types de découd-vite, des plus simples aux plus techniques. Et je dois dire que ce modèle Hemline Seam-Fix retient toute mon attention. Il est à la fois pratique, efficace, et bien pensé jusque dans les détails."<br>
@@ -33,7 +33,7 @@ Après avoir coupé les points, frottez légèrement l'embout sur les résidus d
 ✅ Gain de temps<br>
 ✅ Moins de stress et plus de confort<br>
 
-<img src="{{ site.url }}/assets/img/blog/20250415_steamfixH265DS_1b.jpg" alt="découd-vite Hemline" style="width:200px;height:250px;"> 
+<img src="{{ site.url }}/assets/img/blog/20250415_steamfixH265DS_1B.jpg" alt="découd-vite Hemline" style="width:200px;height:250px;"> 
 
 ## 💡 Pourquoi je l’adore à l’atelier
 Il me suit partout, que ce soit pour une retouche rapide ou un gros projet.<br>
