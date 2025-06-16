@@ -17,7 +17,7 @@ Avouons-le, on a tous eu ce moment où notre trousseau de clés ressemble plus �
 Eh bien, la solution est là, elle nage vers vous avec ses petites nageoires en tissu : les **poissons d'Opale** !
 
 ## Le poisson, votre nouveau meilleur ami (et il ne sent même pas le hareng !)
-Sur **[https://poissonsdopale.sumupstore.com/](https://poissonsdopale.sumupstore.com/)**, nous avons décidé de redonner ses lettres de noblesse au poisson. Non pas dans votre assiette (quoique, on ne juge pas !), mais accroché fièrement à votre porte-clés ou dansant joyeusement sur votre sac. Imaginez la scène : vous sortez vos clés de voiture, et là, un petit poisson rigolo vous fait un clin d'œil. Succès garanti ! Votre journée commence forcément mieux.
+Sur **<a href="{{ site.data.base.store }}" target= "_blank">{{ site.data.base.store }}</a>**, nous avons décidé de redonner ses lettres de noblesse au poisson. Non pas dans votre assiette (quoique, on ne juge pas !), mais accroché fièrement à votre porte-clés ou dansant joyeusement sur votre sac. Imaginez la scène : vous sortez vos clés de voiture, et là, un petit poisson rigolo vous fait un clin d'œil. Succès garanti ! Votre journée commence forcément mieux.
 
 Fini les porte-clés qui se fondent dans la masse ou les sacs qui manquent de personnalité. Avec nos petits compagnons aquatiques en tissu, votre style prend un virage à 180 degrés. C'est l'accessoire décalé, original et terriblement mignon qui va faire jalouser vos amis. "Mais où as-tu trouvé cette merveille ?!" vous demanderont-ils, les yeux ronds comme des billes. Et vous, avec un air de mystère, vous pourrez répondre : "C'est un secret des profondeurs de l'Opale..." (avant de leur donner l'adresse de la boutique, bien sûr !).
 
@@ -30,7 +30,7 @@ Fini les porte-clés qui se fondent dans la masse ou les sacs qui manquent de pe
 
 
 ## Alors, prêt(e) à prendre le large du style ?
-N'attendez plus ! Le banc de poissons le plus cool du web vous attend. Rendez-vous sur **[https://poissonsdopale.sumupstore.com/](https://poissonsdopale.sumupstore.com/)** et laissez-vous tenter par ces créatures marines qui n'ont qu'une seule mission : rendre votre quotidien plus gai et vos accessoires irrésistibles.
+N'attendez plus ! Le banc de poissons le plus cool du web vous attend. Rendez-vous sur **<a href="{{ site.data.base.store }}" target= "_blank">{{ site.data.base.store }}</a>** et laissez-vous tenter par ces créatures marines qui n'ont qu'une seule mission : rendre votre quotidien plus gai et vos accessoires irrésistibles.
 
 Venez découvrir votre futur compagnon de poche ou de sac. On parie que vous allez craquer ? Et si vous hésitez, rappelez-vous : la vie est trop courte pour avoir des porte-clés ennuyeux !
 
