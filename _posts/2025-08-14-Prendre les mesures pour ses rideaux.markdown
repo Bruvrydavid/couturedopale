@@ -1,8 +1,8 @@
 ---
 layout: singlepost
 title:  "Le guide complet pour mesurer et préparer vos rideaux et doubles-rideaux pour des ourlets parfaits"
-urllargeimg: /assets/img/blog/20250814_mesures_rideaux.jpg
-urlsmallimg: /assets/img/blog/20250814_mesures_rideaux.jpg
+urllargeimg: /assets/img/blog/20250814_Mesures_rideaux.jpg
+urlsmallimg: /assets/img/blog/20250814_Mesures_rideaux.jpg
 author: Patricia
 date:   2025-08-14
 readtime : 3 minutes
