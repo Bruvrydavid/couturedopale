@@ -10,6 +10,7 @@ tags: Conseil
 ---
 
 La clé d'un résultat impeccable pous ses rideaux réside dans la précision. Chez Couture d'Opale, nous vous guidons à travers les étapes essentielles pour mesurer vos rideaux avant de faire les ourlets, que ce soit pour des rideaux simples ou des doubles-rideaux. Suivez notre guide pas à pas pour un rendu digne d'un professionnel.
+
 ## 1. Mesurer la longueur idéale
 La première étape, et la plus cruciale, est de déterminer la bonne longueur pour vos rideaux. Vous devez tenir compte du type d'accroche que vous avez (tringle, rail, etc.) et de l'effet que vous souhaitez obtenir.
 
