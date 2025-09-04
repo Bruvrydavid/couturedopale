@@ -4,7 +4,7 @@ title:  "L'art de la retouche:la solution pour des vêtements qui vous vont (vra
 urllargeimg: /assets/img/blog/20250903_Retouche_vetement.jpg
 urlsmallimg: /assets/img/blog/20250903_Retouche_vetement.jpg
 author: Patricia
-date:   2025-08-14
+date:   2025-09-03
 readtime : 2minutes
 tags: Information
 ---
