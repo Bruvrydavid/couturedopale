@@ -5,7 +5,7 @@ urllargeimg: /assets/img/blog/20250903_Retouche_vetement.jpg
 urlsmallimg: /assets/img/blog/20250903_Retouche_vetement.jpg
 author: Patricia
 date:   2025-09-03
-readtime : 2minutes
+readtime : 3 minutes
 tags: Information
 ---
 Le concept de "prêt-à-porter" est un peu étrange, vous ne trouvez pas ? Quand on y pense, un vêtement produit en masse, pour la Terre entière, ne peut pas tomber parfaitement sur tout le monde. Nos corps sont tous uniques, avec des petites particularités qui nous sont propres. C’est pour ça que la plupart du temps, on se retrouve avec des manches un peu trop longues, une taille un peu trop lâche ou un ourlet qui traîne par terre. C'est là que la retouche entre en jeu. Et c'est une véritable révolution !✂️
