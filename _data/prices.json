@@ -58,9 +58,9 @@
         },
         {"category":"6", "description":"AMEUBLEMENT",
         "services":[
-                {"description":"Ourlet rideau (140)","prix":"8€"},
+                {"description":"Ourlet rideau (140)","prix":"9€"},
                 {"description":"Ourlet au mètre","prix":"4€ mlp"},
-                {"description":"Pose de ruflettes au mètre linéaire posé, ruflette fournie","prix":"8€ mlp"},
+                {"description":"Pose de ruflettes au mètre linéaire posé, ruflette fournie","prix":"9€ mlp"},
                 {"description":"Pose de ruflettes au mètre linéaire posé","prix":"6,5€ mlp"}                
             ]
         }
