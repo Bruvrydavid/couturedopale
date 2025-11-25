@@ -64,7 +64,19 @@ Fuyez les coffrets de 50 bobines à prix cassé. Ces fils sont souvent irréguli
 
 Investissez dans des marques reconnues (comme Gütermann, Mettler, ou Coats). Une bonne bobine coûte quelques euros, mais elle vous garantit une expérience de couture fluide et des vêtements qui durent. Votre temps et votre beau tissu méritent ce qu'il y a de mieux !
 
-**Conclusion**
+## En résumé : Le guide pratique
+
+Pour vous aider au quotidien, gardez ce petit tableau en tête :
+
+| Type de Tissu | Fil Recommandé | Aiguille Conseillée |
+| :-------------| :--------------------------------------------------------------| :-----------------|
+| Coton,Lin     |  Viscose,"Polyester ""Tout coudre"" (Taille 100)<br>             | Universelle 70-80 |
+| Jeans<br>Toile épaisse  |  Fil Spécial Jeans ou Polyester fort<br>                 | Jeans 90-100      |
+| Jersey        |  Sweat,Tricot,Polyester (Point zigzag/stretch)<br>                 | Jersey ou Stretch |
+| Soie          |  Satin,Soie ou Polyester extra-fin<br>                             | Microtex 60-70    | 
+| Cuir          |  Simili,Polyester très résistant (Cordonnet)<br>                   | Cuir 90-100       | 
+
+## **Conclusion**
 
 Choisir le bon fil, c'est donner à votre projet les fondations solides qu'il mérite. En suivant ces quelques règles simples sur la matière, l'épaisseur et la qualité, vous verrez la différence dans le rendu final et la durabilité de vos créations.
 
