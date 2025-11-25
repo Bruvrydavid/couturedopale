@@ -80,6 +80,6 @@ Pour vous aider au quotidien, gardez ce petit tableau en tête :
 
 Choisir le bon fil, c'est donner à votre projet les fondations solides qu'il mérite. En suivant ces quelques règles simples sur la matière, l'épaisseur et la qualité, vous verrez la différence dans le rendu final et la durabilité de vos créations.
 
-Vous avez un doute sur le fil à associer à votre dernier coup de cœur tissu ? N'hésitez pas à nous demander conseil en boutique chez Couture d'Opale ou via nos réseaux sociaux.
+Vous avez un doute sur le fil à associer à votre dernier coup de cœur tissu ? N'hésitez pas à nous demander conseil chez Couture d'Opale ou via nos réseaux sociaux.
 
 Bonne couture à toutes et à tous !
