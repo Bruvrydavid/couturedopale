@@ -8,7 +8,7 @@ date:   2026-02-04
 readtime : 3 minutes
 tags:  Création
 ---
-Les secrets des couturiers : Maîtriser les coutures ouvertes, fermées, couchées et rabattues 
+Les secrets des couturiéres : Maîtriser les coutures ouvertes, fermées, couchées et rabattues 
 
 Bienvenue sur le blog de Couture d’Opale ! Que vous fassiez vos premiers pas derrière une machine à coudre ou que vous soyez déjà mordu de création textile, il y a un aspect qu'on ne peut négliger : les finitions. Le choix de l'assemblage ne change pas seulement l'aspect intérieur de votre vêtement, il définit aussi sa solidité et son tombé. Aujourd’hui, on décortique ensemble les grandes familles de coutures pour que vos créations soient aussi belles à l'envers qu'à l'endroit.
 
